@@ -78,3 +78,5 @@ Discord: https://discord.gg/sMUUvS5ma3
 Reddit: r/ProjectReLyfe
 
 X: @ReLyfeDad
+
+email: relyfedad@protonmail.com
