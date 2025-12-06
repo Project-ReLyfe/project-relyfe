@@ -13,7 +13,7 @@ boots fast
 
 runs basic apps smoothly
 
-works well for kids
+works well for kids 
 
 removes bloat
 
