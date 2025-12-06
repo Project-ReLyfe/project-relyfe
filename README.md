@@ -23,7 +23,7 @@ extends device life by years
 
 We will adapt existing open-source systems instead of reinventing everything from scratch. The goal is practicality and accessibility.
 
-Why This Matters?
+*Why This Matters?*
 
 Families shouldn’t lose access to tech because of forced upgrades.
 Schools shouldn’t trash thousands of devices due to expired update windows.
@@ -32,7 +32,7 @@ can help create real solutions. If we team up, we can eventually make a differen
 
 We can build a real alternative.
 
-How You Can Help
+*How You Can Help*
 
 We’re looking for contributors with skills in:
 
@@ -52,7 +52,7 @@ installer tooling
 
 If you’ve ever looked at an old device and thought, this shouldn’t be trash, you already understand our mission.
 
-The Bigger Mission
+*The Bigger Mission*
 
 ReLyfe isn’t just about software — it’s about tech literacy.
 
@@ -71,7 +71,7 @@ school and nonprofit partnerships
 
 It all starts with giving these devices a second life.
 
-Community
+*Community*
 
 Discord: https://discord.gg/sMUUvS5ma3
 
