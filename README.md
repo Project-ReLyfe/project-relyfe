@@ -1,4 +1,5 @@
 Project ReLyfe
+
 Project ReLyfe is a community effort to give older tablets and Chromebooks a second life. Most of these devices don’t fail because the hardware is worn out—they fail because the software ecosystem abandons them. That’s wasteful, expensive, and unnecessary.
 
 I go by ReLyfe Dad, and I started this project because families shouldn’t have to replace perfectly good hardware just because a manufacturer stopped supporting it. After rebuilding my life and home from the ground up, I became painfully aware of how much good tech gets thrown away for no real reason. That frustration turned into mission.
